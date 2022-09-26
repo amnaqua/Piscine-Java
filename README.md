@@ -1,5 +1,6 @@
 # Piscine-Java
 A project aimed at learning the basics of the Java language. </br>
+All detailed subjects are in the days folders. </br>
 
 ## Java00
 Structures and arrays. </br>
