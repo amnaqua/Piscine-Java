@@ -1,24 +1,25 @@
 # Piscine-Java
-A project aimed at learning the basics of the Java language.
+A project aimed at learning the basics of the Java language. </br>
 
-### Java00
+## Java00
 Structures and arrays. </br>
-### Java01
+## Java01
 OOP and Collections. </br>
-### Java02
+## Java02
 IO and Files. </br>
-### Java03
+## Java03
 Threads. </br>
-### Java04
+## Java04
 JAR. </br>
-### Java05
+## Java05
 SQL and JDBC. </br>
-### Java06
+## Java06
 JUnit and Mockito. </br>
-### Java07
+## Java07
 Reflection. </br>
-### Java08
+## Java08
 Spring. </br>
-### Rush00
-
-### Rush01
+## Rush00
+Console Game and Maven. </br>
+## Rush01
+Java FX and Sockets. </br>
